@@ -98,7 +98,7 @@ const Header = () => {
 							duration={500}
 							className="px-4 md:px-6 py-2 cursor-pointer text-lg font-medium"
 						>
-							Technologies
+							Technology
 						</Link>
 						<Link
 							to="about"
