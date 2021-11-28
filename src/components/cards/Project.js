@@ -19,9 +19,7 @@ const Project = ({ title, desc, tags, view_link, code_link }) => {
 				<div className="my-2 w-16 h-1 bg-blue-400 mx-auto" />
 				<p className="mt-4 pb-2 mx-auto text-lg dark:text-white font-lato">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat.
+					eiusmod tempor incididunt ut labore et dolore magna aliqua.
 				</p>
 				<div className="py-2 text-left dark:text-gray-200 text-lg">
 					<span className="px-2 py-1">#React</span>
